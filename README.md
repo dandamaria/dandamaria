@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Dandara Farias, i hvae 16 years old, i'm interested in math, desing and programming, i started in tecnology world more or less to 11 years old, actually i want to develop my skills of programming and then creat projects that always wanted.
-- 🌱 I’m currently learning Pyhton, JAVA (for FTC competition), C/C++, LaTex.
-- 💞️ I’m in serious relashionship with my wife Duda Gomes
-- 📫 How to reach me -> Instagram: @danmfarias
-- 😄 Pronouns: she/her
+Hi, I’m Dandara Maria you can reach me -> Instagram: @danmfarias
 
 <!---
 dandamaria/dandamaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
