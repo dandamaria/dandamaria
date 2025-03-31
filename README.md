@@ -1,8 +1,6 @@
 #👩🏽‍🎓 Dandara Maria
-
-<div>
 **`Still Building`**
-
+<div>
 Estou construindo esse perfil novamente como uma forma de registrar meus estudos, pretendo me tornar uma desenvolvedora Back-end tendo a linguagem JAVA como principal. Já tive contato com a linguagem antes pela FIRST TECH CHALLENGE, entretanto o desenvolvimento web é uma área nova pra mim. Faço alguns trabalhos como designer e talvez possa unir essas habilidades com a programação pra criar um Saas legal futuramente, enfim, ideias e oportunidades.
 <div/>
 <p align="center">
