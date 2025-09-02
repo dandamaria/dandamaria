@@ -2,8 +2,6 @@
 
 **`Still Building`**
 <div>
-Estou construindo esse perfil novamente como uma forma de registrar meus estudos, pretendo me tornar uma desenvolvedora Back-end tendo a linguagem JAVA como principal. Já tive contato com a linguagem antes pela FIRST TECH CHALLENGE, entretanto o desenvolvimento web é uma área nova pra mim. Faço alguns trabalhos como designer e talvez possa unir essas habilidades com a programação pra criar um Saas legal futuramente, enfim, ideias e oportunidades.
+Estou reconstruindo esse perfil como uma forma de registrar meus estudos em programação e tecnologia.
+Já tive contato com linguagens como C, C++, Python e Java durante o ensino médio, por meio do itinerário de matemática e da robótica (FIRST TECH CHALLENGE e FIRST ROBOTICS COMPETITION). Mas dessa vez, irei me dedicar mais a documentar esse processo de aprendizado, sejam com tutoriais, projetos reais e/ou fictícios.
 <div/>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Dandara+aqui!;Seja+bem+vindo(a)+ao+meu+perfil!;Por+enquanto+não+tem+muito+o+que+ver;Mas+você+vai+gostar+dos+meus+futuros+projetos!;ata+amo+!&font=Fira%20Code&center=true&width=700&height=50&duration=3000&pause=900" alt="Example Usage - README Typing SVG">
-</p>
